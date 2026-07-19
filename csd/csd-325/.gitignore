@@ -1,0 +1,9 @@
+# Ignore local database credentials
+db_config.py
+
+# PyCharm project files
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
